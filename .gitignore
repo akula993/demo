@@ -1,0 +1,27 @@
+.idea/
+.vscode/
+*.iml
+
+__pycache__/
+
+db.sqlite3
+local.py
+prod.py
+local_settings.py
+
+
+*.log
+*.pot
+*.py[cod]
+
+media/**
+!media/
+!media/.gitkeep
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
